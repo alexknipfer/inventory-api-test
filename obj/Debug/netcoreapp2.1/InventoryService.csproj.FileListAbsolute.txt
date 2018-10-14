@@ -1,0 +1,14 @@
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.csprojAssemblyReference.cache
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.csproj.CoreCompileInputs.cache
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.RazorAssemblyInfo.cache
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.RazorAssemblyInfo.cs
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.AssemblyInfoInputs.cache
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.AssemblyInfo.cs
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/bin/Debug/netcoreapp2.1/InventoryService.deps.json
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/bin/Debug/netcoreapp2.1/InventoryService.runtimeconfig.json
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/bin/Debug/netcoreapp2.1/InventoryService.runtimeconfig.dev.json
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/bin/Debug/netcoreapp2.1/InventoryService.dll
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/bin/Debug/netcoreapp2.1/InventoryService.pdb
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.RazorTargetAssemblyInfo.cache
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.dll
+/Users/alexanderknipfer/Projects/InventoryService/InventoryService/obj/Debug/netcoreapp2.1/InventoryService.pdb
