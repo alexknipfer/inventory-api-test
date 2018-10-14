@@ -35,5 +35,14 @@ namespace InventoryService.Controllers
 
             _inventoryItemRespository.AddInventoryItem(itemToAdd);
         }
+
+        [HttpGet]
+        [Route("GetAllInventoryItems")]
+        public async Task<ActionResult<IEnumerable<InventoryItem>>> Get()
+        {
+            var items = await _inventoryItemRespository.GetAllInventoryItems();
+
+            return Ok(items);
+        }
     }
 }
